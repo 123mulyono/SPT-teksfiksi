@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="1"></bool>
+  <bool value="0"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -196,7 +196,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="268"></int>
+                  <int value="270"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -210,7 +210,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="11_127_2.15"></unicode>
+                <unicode value="11_127_2.16"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -221,7 +221,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Cover_TA_SPT.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpzc7fdh\\Cover_TA_SPT.png"></string>
+                  <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpggrodd\\Cover_TA_SPT.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5cecf1afdb87626e1df43ddd40e8f6d0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -250,7 +250,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="16"></int>
+           <int value="17"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -909,7 +909,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="269"></int>
+                     <int value="271"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -923,7 +923,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="13_129_2.15"></unicode>
+                   <unicode value="13_129_2.16"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
@@ -934,7 +934,59 @@
                      <string role="key" value="_storageName"></string>
                      <string value="map_1740765102087.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpzc7fdh\\map_1740765102087.png"></string>
+                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpggrodd\\map_1740765102087.png"></string>
+                     <string role="key" value="checksum"></string>
+                     <string value="f6d818a50b8a0a670cbb64180c7fcc36"></string>
+                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                     <int value="2"></int>
+                     <string role="key" value="warningMsg"></string>
+                     <string value=""></string>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_parent"></string>
+                   <reference key="18"></reference>
+                   <string role="key" value="_thumbnailResource"></string>
+                   <none></none>
+                   <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                   <int value="3"></int>
+                   <string role="key" value="makeThumbnail"></string>
+                   <bool value="0"></bool>
+                  </dictionary>
+                 </instance>
+                 <instance class="exe.engine.galleryidevice.GalleryImage">
+                  <dictionary>
+                   <string role="key" value="_caption"></string>
+                   <instance class="exe.engine.field.TextField">
+                    <dictionary>
+                     <string role="key" value="_id"></string>
+                     <int value="272"></int>
+                     <string role="key" value="_idevice"></string>
+                     <none></none>
+                     <string role="key" value="_instruc"></string>
+                     <string value=""></string>
+                     <string role="key" value="_name"></string>
+                     <string value=""></string>
+                     <string role="key" value="content"></string>
+                     <string value=""></string>
+                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                     <int value="4"></int>
+                    </dictionary>
+                   </instance>
+                   <string role="key" value="_id"></string>
+                   <unicode value="13_129_2.17"></unicode>
+                   <string role="key" value="_imageResource"></string>
+                   <instance class="exe.engine.resource.Resource" reference="21">
+                    <dictionary>
+                     <string role="key" value="_idevice"></string>
+                     <reference key="17"></reference>
+                     <string role="key" value="_package"></string>
+                     <reference key="2"></reference>
+                     <string role="key" value="_storageName"></string>
+                     <string value="map_1740765102087.png"></string>
+                     <string role="key" value="_userName"></string>
+                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpggrodd\\map_1740765102087.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6d818a50b8a0a670cbb64180c7fcc36"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -963,7 +1015,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="16"></int>
+              <int value="18"></int>
               <string role="key" value="parentNode"></string>
               <reference key="19"></reference>
              </dictionary>
@@ -990,6 +1042,7 @@
            <string role="key" value="userResources"></string>
            <list>
             <reference key="20"></reference>
+            <reference key="21"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
@@ -1065,13 +1118,13 @@ and select the size of the area to display it in."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="23">
+      <instance class="exe.engine.node.Node" reference="24">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Pendalaman Materi"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="21">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="22">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -1132,12 +1185,12 @@ and select the size of the area to display it in."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="22">
+            <instance class="exe.engine.field.TextAreaField" reference="23">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="304_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="21"></reference>
+              <reference key="22"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -1165,7 +1218,7 @@ and select the size of the area to display it in."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="22"></reference>
+                <reference key="23"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -1173,7 +1226,7 @@ and select the size of the area to display it in."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="23"></reference>
+              <reference key="24"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1190,7 +1243,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="23"></reference>
+           <reference key="24"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -1201,7 +1254,7 @@ and select the size of the area to display it in."></unicode>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="24">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="25">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -1262,12 +1315,12 @@ and select the size of the area to display it in."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="25">
+            <instance class="exe.engine.field.TextAreaField" reference="26">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="307_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="24"></reference>
+              <reference key="25"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -1284,11 +1337,9 @@ and select the size of the area to display it in."></unicode>
 &lt;h2&gt;Bacaan 2 (Saboo dan Jojo)&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/saboo/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;Audiobook 1&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Jika menggunakan HP, posisikan secara horizontal&lt;/em&gt;&lt;/p&gt;
 &lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/lumi_celengan/&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
 &lt;h2 style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;Audiobook 2&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Jika menggunakan HP, posisikan secara horizontal&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt; &lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/isipanci/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/isipanci/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -1322,7 +1373,7 @@ and select the size of the area to display it in."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="25"></reference>
+                <reference key="26"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -1330,7 +1381,7 @@ and select the size of the area to display it in."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="23"></reference>
+              <reference key="24"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1347,7 +1398,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="23"></reference>
+           <reference key="24"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -1379,13 +1430,13 @@ and select the size of the area to display it in."></unicode>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="28">
+      <instance class="exe.engine.node.Node" reference="29">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Atribusi dan Rujukan"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="26">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="27">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -1446,12 +1497,12 @@ and select the size of the area to display it in."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="27">
+            <instance class="exe.engine.field.TextAreaField" reference="28">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="134_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="26"></reference>
+              <reference key="27"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -1489,7 +1540,7 @@ and select the size of the area to display it in."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="27"></reference>
+                <reference key="28"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -1497,7 +1548,7 @@ and select the size of the area to display it in."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="28"></reference>
+              <reference key="29"></reference>
              </dictionary>
             </instance>
            </list>
@@ -1514,7 +1565,7 @@ and select the size of the area to display it in."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="28"></reference>
+           <reference key="29"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -1550,7 +1601,7 @@ and select the size of the area to display it in."></unicode>
     </dictionary>
    </instance>
    <unicode role="key" value="13"></unicode>
-   <reference key="28"></reference>
+   <reference key="29"></reference>
    <unicode role="key" value="14"></unicode>
    <reference key="11"></reference>
    <unicode role="key" value="16"></unicode>
@@ -1560,7 +1611,7 @@ and select the size of the area to display it in."></unicode>
    <unicode role="key" value="6"></unicode>
    <reference key="19"></reference>
    <unicode role="key" value="9"></unicode>
-   <reference key="23"></reference>
+   <reference key="24"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -1571,7 +1622,7 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="28"></reference>
+  <reference key="24"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -2890,6 +2941,7 @@ and select the size of the area to display it in."></unicode>
    <string role="key" value="f6d818a50b8a0a670cbb64180c7fcc36"></string>
    <list>
     <reference key="20"></reference>
+    <reference key="21"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
