@@ -196,7 +196,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="270"></int>
+                  <int value="273"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -210,7 +210,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="11_127_2.16"></unicode>
+                <unicode value="11_127_2.17"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -221,7 +221,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Cover_TA_SPT.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpggrodd\\Cover_TA_SPT.png"></string>
+                  <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpuzdeeu\\Cover_TA_SPT.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5cecf1afdb87626e1df43ddd40e8f6d0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -250,7 +250,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="17"></int>
+           <int value="18"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -909,7 +909,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="271"></int>
+                     <int value="274"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -923,7 +923,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="13_129_2.16"></unicode>
+                   <unicode value="13_129_2.18"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
@@ -934,7 +934,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="map_1740765102087.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpggrodd\\map_1740765102087.png"></string>
+                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpuzdeeu\\map_1740765102087.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6d818a50b8a0a670cbb64180c7fcc36"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -961,7 +961,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="272"></int>
+                     <int value="275"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -975,7 +975,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="13_129_2.17"></unicode>
+                   <unicode value="13_129_2.19"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
@@ -986,7 +986,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="map_1740765102087.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpggrodd\\map_1740765102087.png"></string>
+                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpuzdeeu\\map_1740765102087.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6d818a50b8a0a670cbb64180c7fcc36"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1015,7 +1015,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="18"></int>
+              <int value="20"></int>
               <string role="key" value="parentNode"></string>
               <reference key="19"></reference>
              </dictionary>
@@ -1336,9 +1336,9 @@ and select the size of the area to display it in."></unicode>
 &lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/monster/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;Bacaan 2 (Saboo dan Jojo)&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/saboo/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;h2&gt;Audiobook 1&lt;/h2&gt;
+&lt;h2&gt;Audiobook 1 (Celengan Ayam)&lt;/h2&gt;
 &lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/lumi_celengan/&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
-&lt;h2 style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;Audiobook 2&lt;/h2&gt;
+&lt;h2 style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;Audiobook 2 (Apa Isi Panci Itu?)&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/isipanci/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
