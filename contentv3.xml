@@ -87,7 +87,7 @@
   <string role="key" value="_name"></string>
   <unicode value="Tugas_SPT_final"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="312"></int>
+  <int value="314"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="294"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -196,7 +196,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="264"></int>
+                  <int value="268"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -210,7 +210,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="11_127_2.13"></unicode>
+                <unicode value="11_127_2.15"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -221,7 +221,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Cover_TA_SPT.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\moel\\appdata\\local\\temp\\tmphssecx\\Cover_TA_SPT.png"></string>
+                  <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpzc7fdh\\Cover_TA_SPT.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5cecf1afdb87626e1df43ddd40e8f6d0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -250,7 +250,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="14"></int>
+           <int value="16"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -872,9 +872,7 @@
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Cerita anak adalah salah satu bentuk sastra yang dibuat khusus untuk anak-anak. Sastra anak sendiri merujuk pada karya sastra yang isinya disesuaikan dengan perkembangan intelektual dan emosional anak. Selain sebagai hiburan, cerita anak juga dapat mengajarkan nilai-nilai moral serta memberikan pengalaman.&lt;/p&gt;
 &lt;p&gt;Cerita anak memiliki dua unsur utama, yaitu unsur intrinsik dan unsur ekstrinsik. Unsur intrinsik adalah bagian dari cerita itu sendiri, seperti tokoh, sudut pandang, dan latar. Sementara itu, unsur ekstrinsik berkaitan dengan latar belakang pengarang, pandangan hidup, serta nilai-nilai sosial dan budaya yang memengaruhi cerita.&lt;/p&gt;
 &lt;div class=&quot;exe-mind-map&quot;&gt;
-&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 828px;&quot;&gt;&lt;img src=&quot;resources/map_1740765102087.png&quot; width=&quot;828&quot; height=&quot;368&quot; alt=&quot;Unsur Cerita Anak&quot; /&gt;
-&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span class=&quot;title&quot;&gt;&lt;em&gt;Unsur Cerita Anak&lt;/em&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center&quot; style=&quot;width: 828px;&quot;&gt;&lt;a href=&quot;resources/map_1740765102087.png&quot; rel=&quot;lightbox&quot; title=&quot;Unsur Cerita Anak&quot;&gt;&lt;img src=&quot;resources/map_1740765102087.png&quot; width=&quot;828&quot; height=&quot;368&quot; alt=&quot;Unsur Cerita Anak&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
 &lt;p class=&quot;exe-mindmap-code&quot;&gt;{&quot;id&quot;:&quot;93bfacb2-3fe5-4c8a-93bc-05cbb3a93ace&quot;,&quot;title&quot;:&quot;Unsur-Unsur Cerita Anak&quot;,&quot;mindmap&quot;:{&quot;root&quot;:{&quot;id&quot;:&quot;50f2675b-3c13-4357-9649-674c22a3e989&quot;,&quot;parentId&quot;:null,&quot;text&quot;:{&quot;caption&quot;:&quot;Unsur-Unsur Cerita Anak&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;bold&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:20,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:0,&quot;y&quot;:0},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#000000&quot;,&quot;children&quot;:[{&quot;id&quot;:&quot;c14167d3-cd25-4631-b597-9917ba97e8a0&quot;,&quot;parentId&quot;:&quot;50f2675b-3c13-4357-9649-674c22a3e989&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Intrinsik&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:83.97222900390625,&quot;y&quot;:-53},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#ef44ca&quot;,&quot;children&quot;:[{&quot;id&quot;:&quot;04ed5519-4aa5-495d-8e60-d3280584f944&quot;,&quot;parentId&quot;:&quot;c14167d3-cd25-4631-b597-9917ba97e8a0&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Peristiwa dan Koflik&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:245.97564697265625,&quot;y&quot;:14.975692749023438},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#ef44ca&quot;,&quot;children&quot;:[]},{&quot;id&quot;:&quot;10c0e1af-e011-478b-95f8-46851e1a7fbc&quot;,&quot;parentId&quot;:&quot;c14167d3-cd25-4631-b597-9917ba97e8a0&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Tokoh dan Penokohan&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:203.97564697265625,&quot;y&quot;:-98.02430725097656},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#ef44ca&quot;,&quot;children&quot;:[]},{&quot;id&quot;:&quot;11cd9024-98f6-44ee-bdaf-0d561871ff4e&quot;,&quot;parentId&quot;:&quot;c14167d3-cd25-4631-b597-9917ba97e8a0&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Latar&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:248.95831298828125,&quot;y&quot;:-49.01042175292969},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#ef44ca&quot;,&quot;children&quot;:[]},{&quot;id&quot;:&quot;3b89591f-020e-481c-b146-301e2ced269a&quot;,&quot;parentId&quot;:&quot;c14167d3-cd25-4631-b597-9917ba97e8a0&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Alur&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:250.1944580078125,&quot;y&quot;:70.20487976074219},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#ef44ca&quot;,&quot;children&quot;:[]},{&quot;id&quot;:&quot;d0502613-03db-482f-af4e-1f1525fa9aba&quot;,&quot;parentId&quot;:&quot;c14167d3-cd25-4631-b597-9917ba97e8a0&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Tema dan Amanat&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:266.96185302734375,&quot;y&quot;:147.97572326660156},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#ef44ca&quot;,&quot;children&quot;:[]}]},{&quot;id&quot;:&quot;fdfdc67e-a968-4365-808c-af46a24ea8d4&quot;,&quot;parentId&quot;:&quot;50f2675b-3c13-4357-9649-674c22a3e989&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Ekstrinsik&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:-123.982666015625,&quot;y&quot;:79.95138549804688},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#e49582&quot;,&quot;children&quot;:[{&quot;id&quot;:&quot;bdbc06e4-cca1-4e13-8d6f-a0a147341ffa&quot;,&quot;parentId&quot;:&quot;fdfdc67e-a968-4365-808c-af46a24ea8d4&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Pandangan hidup&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:-176.9722137451172,&quot;y&quot;:3.97222900390625},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#e49582&quot;,&quot;children&quot;:[]},{&quot;id&quot;:&quot;b1a0872a-049a-4291-a031-545d887dfbac&quot;,&quot;parentId&quot;:&quot;fdfdc67e-a968-4365-808c-af46a24ea8d4&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Latar belakang pengarang&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:-207.9722137451172,&quot;y&quot;:-74.9930419921875},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#e49582&quot;,&quot;children&quot;:[]},{&quot;id&quot;:&quot;236bfddf-2895-495e-b32b-931ba5807a17&quot;,&quot;parentId&quot;:&quot;fdfdc67e-a968-4365-808c-af46a24ea8d4&quot;,&quot;text&quot;:{&quot;caption&quot;:&quot;Nilai sosial budaya&quot;,&quot;font&quot;:{&quot;style&quot;:&quot;normal&quot;,&quot;weight&quot;:&quot;normal&quot;,&quot;decoration&quot;:&quot;none&quot;,&quot;size&quot;:15,&quot;color&quot;:&quot;#000000&quot;}},&quot;offset&quot;:{&quot;x&quot;:-215.9722137451172,&quot;y&quot;:83.96182250976562},&quot;foldChildren&quot;:false,&quot;branchColor&quot;:&quot;#e49582&quot;,&quot;children&quot;:[]}]}]}},&quot;dates&quot;:{&quot;created&quot;:1740587464123,&quot;modified&quot;:1740765045732},&quot;dimensions&quot;:{&quot;x&quot;:4000,&quot;y&quot;:2000},&quot;autosave&quot;:false}&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Kali ini, kita secara khusus akan membahas unsur-unsur intrinsik dalam cerita anak. &lt;/p&gt;
@@ -911,7 +909,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="265"></int>
+                     <int value="269"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -925,7 +923,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="13_129_2.13"></unicode>
+                   <unicode value="13_129_2.15"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
@@ -936,7 +934,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="map_1740765102087.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmphssecx\\map_1740765102087.png"></string>
+                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpzc7fdh\\map_1740765102087.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6d818a50b8a0a670cbb64180c7fcc36"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -965,7 +963,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="14"></int>
+              <int value="16"></int>
               <string role="key" value="parentNode"></string>
               <reference key="19"></reference>
              </dictionary>
@@ -1286,9 +1284,11 @@ and select the size of the area to display it in."></unicode>
 &lt;h2&gt;Bacaan 2 (Saboo dan Jojo)&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/saboo/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;Audiobook 1&lt;/h2&gt;
-&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;&lt;iframe width=&quot;300&quot; height=&quot;150&quot; style=&quot;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&quot; src=&quot;https://123mulyono.github.io/celengan/&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Jika menggunakan HP, posisikan secara horizontal&lt;/em&gt;&lt;/p&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/lumi_celengan/&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
 &lt;h2 style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;Audiobook 2&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/isipanci/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Jika menggunakan HP, posisikan secara horizontal&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/isipanci/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -1464,11 +1464,11 @@ and select the size of the area to display it in."></unicode>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Atribusi&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://storyweaver.org.in/en/stories/334482-monster-help&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Monster! Tolong! (Bahasa Indonesia)&lt;/a&gt;, diterjemahkan oleh &lt;a href=&quot;https://storyweaver.org.in/users/414899-franciscus-dondy&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Franciscus Dondy Yanuprasetya&lt;/a&gt;, dipublikasikan oleh Badan Pengembangan dan Pembinaan Bahasa, berdasarkan pada cerita asli &lt;a href=&quot;https://storyweaver.org.in/en/stories/91927-shh-what-s-that&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Shh! What's That? (English)&lt;/a&gt;, ditulis oleh &lt;a href=&quot;https://storyweaver.org.in/users/44255-sanjana-kapur&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Sanjana Kapur&lt;/a&gt;, ilustrasi oleh Kaveri Gopalakrishnan, diterbitkan oleh Pratham Books di bawah lisensi &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CC BY 4.0&lt;/a&gt;, StoryWeaver.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://storyweaver.org.in/en/stories/335010-saboo-and-jojo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Saboo dan Jojo (Bahasa Indonesia)&lt;/a&gt;, diterjemahkan oleh &lt;a href=&quot;https://storyweaver.org.in/users/382181-indrias-dwi-yuliasari&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Indrias Dwi Yuliasari&lt;/a&gt;, dipublikasikan oleh Badan Pengembangan dan Pembinaan Bahasa, berdasarkan cerita asli &lt;a href=&quot;https://storyweaver.org.in/stories/1017-saboo-and-jojo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Saboo and Jojo (English)&lt;/a&gt;, ditulis oleh &lt;a href=&quot;https://storyweaver.org.in/users/186-herminder-ohri&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Herminder Ohri&lt;/a&gt;, ilustrator oleh Herminder Ohri, di bawah lisensi &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CC BY 4.0&lt;/a&gt;, StoryWeaver&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=M82tKtT2iJU&quot;&gt;Apa Isi Panci Itu?&lt;/a&gt;, dibacakan oleh Aulia Damayanti, melalui channel youtube &lt;a href=&quot;https://www.youtube.com/@gemaribacaslidd&quot;&gt;Gemari Baca SLI DD&lt;/a&gt;, dilisensikan di bawah &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/legalcode&quot;&gt;CC BY 3.0&lt;/a&gt;, youtube&lt;a href=&quot;https://storyweaver.org.in/en/stories/335010-saboo-and-jojo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dAkRX9evCuU&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Celengan Ayam&lt;/a&gt;, dibacakan oleh Ayu Fitri Septina, melalui channel youtube &lt;a href=&quot;https://www.youtube.com/@gemaribacaslidd&quot;&gt;Gemari Baca SLI DD&lt;/a&gt;, dilisensikan di bawah &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/legalcode&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CC BY 3.0&lt;/a&gt;. youtube&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=M82tKtT2iJU&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Apa Isi Panci Itu?&lt;/a&gt;, dibacakan oleh Aulia Damayanti, melalui channel youtube &lt;a href=&quot;https://www.youtube.com/@gemaribacaslidd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Gemari Baca SLI DD&lt;/a&gt;, dilisensikan di bawah &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/legalcode&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CC BY 3.0&lt;/a&gt;, youtube&lt;/li&gt;
 &lt;li&gt;Ikon bawaan dari aplikasi exelearning dengan lisensi bawaan dari aplikasi &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CC BY-SA 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://storyweaver.org.in/en/stories/334482-monster-help&quot;&gt;Monster! Tolong! (Bahasa Indonesia)&lt;/a&gt;, diterjemahkan oleh &lt;a href=&quot;https://storyweaver.org.in/users/414899-franciscus-dondy&quot;&gt;Franciscus Dondy Yanuprasetya&lt;/a&gt;, dipublikasikan oleh Badan Pengembangan dan Pembinaan Bahasa, berdasarkan pada cerita asli &lt;a href=&quot;https://storyweaver.org.in/en/stories/91927-shh-what-s-that&quot;&gt;Shh! What's That? (English)&lt;/a&gt;, ditulis oleh &lt;a href=&quot;https://storyweaver.org.in/users/44255-sanjana-kapur&quot;&gt;Sanjana Kapur&lt;/a&gt;, ilustrasi oleh Kaveri Gopalakrishnan, diterbitkan oleh Pratham Books di bawah lisensi &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC BY 4.0&lt;/a&gt;, StoryWeaver.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://storyweaver.org.in/en/stories/335010-saboo-and-jojo&quot;&gt;Saboo dan Jojo (Bahasa Indonesia)&lt;/a&gt;, diterjemahkan oleh &lt;a href=&quot;https://storyweaver.org.in/users/382181-indrias-dwi-yuliasari&quot;&gt;Indrias Dwi Yuliasari&lt;/a&gt;, dipublikasikan oleh Badan Pengembangan dan Pembinaan Bahasa, berdasarkan cerita asli &lt;a href=&quot;https://storyweaver.org.in/stories/1017-saboo-and-jojo&quot;&gt;Saboo and Jojo (English)&lt;/a&gt;, ditulis oleh &lt;a href=&quot;https://storyweaver.org.in/users/186-herminder-ohri&quot;&gt;Herminder Ohri,&lt;/a&gt; ilustrator oleh Herminder Ohri, di bawah lisensi &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC BY 4.0&lt;/a&gt;, StoryWeaver&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Rujukan&lt;/h2&gt;
 &lt;p&gt;Siti B (2021), Pengertian Cerita Anak: Unsur, Jenis, Contoh, dan Manfaatnya, &lt;a href=&quot;https://www.gramedia.com/best-seller/pengertian-cerita-anak/?srsltid=AfmBOopn6di4CsPj2fQnaPbd5W9-jMP-UDyK9X6EESdFgeHtNKpJQMvs&quot;&gt;https://www.gramedia.com/best-seller/pengertian-cerita-anak/?srsltid=AfmBOopn6di4CsPj2fQnaPbd5W9-jMP-UDyK9X6EESdFgeHtNKpJQMvs&lt;/a&gt;, diakses pada 27 Februari 2025&lt;/p&gt;
@@ -1571,7 +1571,7 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="11"></reference>
+  <reference key="28"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
