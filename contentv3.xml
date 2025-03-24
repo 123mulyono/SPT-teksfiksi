@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -196,7 +196,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="276"></int>
+                  <int value="279"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -210,7 +210,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="11_127_2.18"></unicode>
+                <unicode value="11_127_2.19"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -221,7 +221,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Cover_TA_SPT.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\moel\\appdata\\local\\temp\\tmp1q_5ty\\Cover_TA_SPT.png"></string>
+                  <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpmzezjb\\Cover_TA_SPT.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="5cecf1afdb87626e1df43ddd40e8f6d0"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -250,7 +250,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="19"></int>
+           <int value="20"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -338,8 +338,8 @@
              <dictionary></dictionary>
              <string role="key" value="content_w_resourcePaths"></string>
              <unicode content="true" value="&lt;p&gt;Selamat datang,&lt;/p&gt;
-&lt;p&gt;Ini adalah Media Pembelajaran Interaktif mata pelajaran Bahasa Indonesia. Media ini dikembang berbasis materi Teks Fiksi Cerita Anak pada mata Pelajaran Bahasa Indonesia di kelas V. Media ini dapat dimanfaatkan sebagai sumber pembelajaran di kelas atau pembelajaran mandiri peserta didik di rumah. Dibuat secara sederhana, media ini diharapkan dapat mudah digunakan dan dimanfaatkan.  &lt;/p&gt;
-&lt;p&gt;Media ini juga dimaksudkan sebagai sumber pembelajaran terbuka yang dilisensikan di bawah CC BY-SA 4.0. Bagi Bapak/Ibu guru rekan sejawat yang ingin memanfaatkan media pembelajaran ini, Anda bebas untuk menggunakannya, termasuk memodifikasi, dengan tetap menggunakan lisensi terbuka yang sama. &lt;/p&gt;
+&lt;p&gt;Ini adalah Media Pembelajaran Interaktif mata pelajaran Bahasa Indonesia. Media ini dikembangkan berbasis pada materi Teks Fiksi Cerita Anak di kelas V. Media ini dapat digunakan sebagai sumber belajar baik di kelas maupun untuk pembelajaran mandiri di rumah. Dengan desain yang sederhana, media ini diharapkan mudah diakses dan dimanfaatkan oleh peserta didik.&lt;/p&gt;
+&lt;p&gt;Selain itu, media ini juga merupakan sumber pembelajaran terbuka yang dilisensikan di bawah CC BY-SA 4.0. Bagi Bapak/Ibu guru yang ingin menggunakannya, Anda bebas memanfaatkan dan memodifikasi media ini, dengan tetap menggunakan lisensi terbuka yang sama.&lt;/p&gt;
 &lt;p&gt;Salam &lt;/p&gt;"></unicode>
              <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
              <int value="4"></int>
@@ -910,7 +910,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="277"></int>
+                     <int value="280"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -924,7 +924,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="13_129_2.20"></unicode>
+                   <unicode value="13_129_2.22"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
@@ -935,7 +935,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="map_1740765102087.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmp1q_5ty\\map_1740765102087.png"></string>
+                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpmzezjb\\map_1740765102087.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6d818a50b8a0a670cbb64180c7fcc36"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -962,7 +962,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="278"></int>
+                     <int value="281"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -976,7 +976,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="13_129_2.21"></unicode>
+                   <unicode value="13_129_2.23"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
@@ -987,7 +987,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="map_1740765102087.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmp1q_5ty\\map_1740765102087.png"></string>
+                     <string value="c:\\users\\moel\\appdata\\local\\temp\\tmpmzezjb\\map_1740765102087.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6d818a50b8a0a670cbb64180c7fcc36"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1016,7 +1016,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="22"></int>
+              <int value="24"></int>
               <string role="key" value="parentNode"></string>
               <reference key="19"></reference>
              </dictionary>
@@ -1338,9 +1338,9 @@ and select the size of the area to display it in."></unicode>
 &lt;h2&gt;Bacaan 2 (Saboo dan Jojo)&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/saboo/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;h2&gt;Audiobook 1 (Celengan Ayam)&lt;/h2&gt;
-&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/lumi_celengan/&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/lumi_celengan/&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;
 &lt;h2 style=&quot;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&quot;&gt;Audiobook 2 (Apa Isi Panci Itu?)&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; style=&quot;border: none; overflow: auto;&quot; src=&quot;https://123mulyono.github.io/isipanci/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;500px&quot; src=&quot;https://123mulyono.github.io/isipanci/&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -1520,7 +1520,7 @@ and select the size of the area to display it in."></unicode>
 &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=dAkRX9evCuU&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Celengan Ayam&lt;/a&gt;, dibacakan oleh Ayu Fitri Septina, melalui channel youtube &lt;a href=&quot;https://www.youtube.com/@gemaribacaslidd&quot;&gt;Gemari Baca SLI DD&lt;/a&gt; | Youtube | &lt;a href=&quot;https://creativecommons.org/licenses/by/3.0/legalcode&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CC BY 3.0&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Ikon bawaan dari aplikasi exelearning dengan lisensi bawaan dari aplikasi &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CC BY-SA 4.0&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://storyweaver.org.in/en/stories/334482-monster-help&quot;&gt;Monster! Tolong! (Bahasa Indonesia)&lt;/a&gt;, diterjemahkan oleh &lt;a href=&quot;https://storyweaver.org.in/users/414899-franciscus-dondy&quot;&gt;Franciscus Dondy Yanuprasetya&lt;/a&gt;, dipublikasikan oleh Badan Pengembangan dan Pembinaan Bahasa, berdasarkan pada cerita asli &lt;a href=&quot;https://storyweaver.org.in/en/stories/91927-shh-what-s-that&quot;&gt;Shh! What's That? (English)&lt;/a&gt;, ditulis oleh &lt;a href=&quot;https://storyweaver.org.in/users/44255-sanjana-kapur&quot;&gt;Sanjana Kapur&lt;/a&gt;, ilustrasi oleh Kaveri Gopalakrishnan, diterbitkan oleh Pratham Books | Storyweaver | &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC BY 4.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://storyweaver.org.in/en/stories/335010-saboo-and-jojo&quot;&gt;Saboo dan Jojo (Bahasa Indonesia)&lt;/a&gt;, diterjemahkan oleh &lt;a href=&quot;https://storyweaver.org.in/users/382181-indrias-dwi-yuliasari&quot;&gt;Indrias Dwi Yuliasari&lt;/a&gt;, dipublikasikan oleh Badan Pengembangan dan Pembinaan Bahasa, berdasarkan cerita asli &lt;a href=&quot;https://storyweaver.org.in/stories/1017-saboo-and-jojo&quot;&gt;Saboo and Jojo (English)&lt;/a&gt;, ditulis oleh &lt;a href=&quot;https://storyweaver.org.in/users/186-herminder-ohri&quot;&gt;Herminder Ohri,&lt;/a&gt; ilustrator oleh Herminder Ohri | Storyweaver | &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC BY 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://storyweaver.org.in/en/stories/335010-saboo-and-jojo&quot;&gt;Saboo dan Jojo (Bahasa Indonesia)&lt;/a&gt;, diterjemahkan oleh &lt;a href=&quot;https://storyweaver.org.in/users/382181-indrias-dwi-yuliasari&quot;&gt;Indrias Dwi Yuliasari&lt;/a&gt;, dipublikasikan oleh Badan Pengembangan dan Pembinaan Bahasa, berdasarkan cerita asli &lt;a href=&quot;https://storyweaver.org.in/stories/1017-saboo-and-jojo&quot;&gt;Saboo and Jojo (English)&lt;/a&gt;, ditulis oleh &lt;a href=&quot;https://storyweaver.org.in/users/186-herminder-ohri&quot;&gt;Herminder Ohri,&lt;/a&gt; ilustrasi oleh Herminder Ohri, diterbitkan oleh Pratham Books | Storyweaver | &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC BY 4.0&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Rujukan&lt;/h2&gt;
 &lt;p&gt;Siti B (2021), Pengertian Cerita Anak: Unsur, Jenis, Contoh, dan Manfaatnya, &lt;a href=&quot;https://www.gramedia.com/best-seller/pengertian-cerita-anak/?srsltid=AfmBOopn6di4CsPj2fQnaPbd5W9-jMP-UDyK9X6EESdFgeHtNKpJQMvs&quot;&gt;https://www.gramedia.com/best-seller/pengertian-cerita-anak/?srsltid=AfmBOopn6di4CsPj2fQnaPbd5W9-jMP-UDyK9X6EESdFgeHtNKpJQMvs&lt;/a&gt;, diakses pada 27 Februari 2025&lt;/p&gt;
@@ -1623,7 +1623,7 @@ and select the size of the area to display it in."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="11"></reference>
+  <reference key="8"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
